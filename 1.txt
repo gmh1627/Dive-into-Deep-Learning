@@ -1,0 +1,6 @@
+cd F:\Desktop\Learning\Computer\Machine Learning\d2l-zh\pytorch
+jupyter notebook
+conda activate d2l
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple
+conda config --remove-key channels
+conda deactivate
